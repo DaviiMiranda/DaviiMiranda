@@ -2,30 +2,24 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
 
 <div >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimiranda&layout=compact">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimiranda&layout=compact&theme=tokyonight">
 </div>
 
-<div>
-   <img alt="Angular" src="https://cdn.simpleicons.org/angular" width="24"/> 
-   <img alt="Java" src="https://cdn.simpleicons.org/java" width="24"/> 
-   <img alt="Spring" src="https://cdn.simpleicons.org/spring" width="24"/> 
-   <img alt="JS" src="https://cdn.simpleicons.org/javascript" width="24"/> 
-   <img alt="Python" src="https://cdn.simpleicons.org/python" width="24"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
 
 <!-- Linha de redes sociais -->
-<div style="display:flex;gap:16px;align-items:center;justify-content:center;margin-top:22px;flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" title="LinkedIn" style="width:36px;height:36px;">
-  </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" title="GitHub" style="width:36px;height:36px;">
-  </a>
-  <a href="https://instagram.com/seu-usuario" target="_blank">
-    <img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" style="width:36px;height:36px;">
-  </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" title="Email" style="width:36px;height:36px;">
-  </a>
+ 
+<div> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "davimiranda210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
