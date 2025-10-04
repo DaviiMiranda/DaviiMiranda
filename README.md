@@ -1,7 +1,7 @@
 ## Oi meu nome é Davi Miranda 👋
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
 <div style="display:flex; gap:10px; justify-content:center; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=daviimiranda&show_icons=true&theme=tokyonight">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimiranda&layout=compact&theme=tokyonight">
   
 </div>
@@ -9,7 +9,7 @@
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,spring,java,mysql," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,spring,java,mysql" />
   </a>
 </p> 
 
