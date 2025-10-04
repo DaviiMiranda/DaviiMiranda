@@ -1,20 +1,17 @@
 ## Oi meu nome é Davi Miranda 👋
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
 
-<!-- Linha de redes sociais -->
 <div >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimiranda&layout=compact">
 </div>
 
-
-
-
-
-Tecnologias: 
-<img alt="Angular" src="https://cdn.simpleicons.org/angular" width="24"/> 
-<img alt="Java" src="https://cdn.simpleicons.org/java" width="24"/> 
-<img alt="Spring" src="https://cdn.simpleicons.org/spring" width="24"/> 
-<img alt="JS" src="https://cdn.simpleicons.org/javascript" width="24"/> 
-<img alt="Python" src="https://cdn.simpleicons.org/python" width="24"/>
+<div>
+   <img alt="Angular" src="https://cdn.simpleicons.org/angular" width="24"/> 
+   <img alt="Java" src="https://cdn.simpleicons.org/java" width="24"/> 
+   <img alt="Spring" src="https://cdn.simpleicons.org/spring" width="24"/> 
+   <img alt="JS" src="https://cdn.simpleicons.org/javascript" width="24"/> 
+   <img alt="Python" src="https://cdn.simpleicons.org/python" width="24"/>
+</div>
 
 <!-- Linha de redes sociais -->
 <div style="display:flex;gap:16px;align-items:center;justify-content:center;margin-top:22px;flex-wrap:wrap;">
