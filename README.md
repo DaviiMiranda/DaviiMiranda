@@ -1,8 +1,9 @@
 ## Oi meu nome é Davi Miranda 👋
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
-
-<div >
+<div style="display:flex; gap:10px; justify-content:center; align-items:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviimiranda&layout=compact&theme=tokyonight">
+  
 </div>
 
 <div style="display: inline_block"><br>
