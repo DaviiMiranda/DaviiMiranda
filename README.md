@@ -10,7 +10,7 @@
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,spring,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,spring,java,mysql" />
   </a>
 </p> 
 
@@ -22,4 +22,3 @@
   <a href="https://www.linkedin.com/in/davmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
